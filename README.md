@@ -1,0 +1,2 @@
+# MyTranslateApp
+React Native App
